@@ -1,1 +1,1 @@
-# crud tinggal import 
+# crud tinggal import INI SING MUDAH 
